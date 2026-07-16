@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Result</title>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+<h1>Test Completed</h1>
+
+<h2>Your Result</h2>
+
+<p>Score: 0</p>
+
+<a href="index.html">
+<button>Go Home</button>
+</a>
+
+</body>
+</html>
